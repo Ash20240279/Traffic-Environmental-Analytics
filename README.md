@@ -8,6 +8,8 @@ This project analyzes multiple datasets to understand the factors that influence
 
 The analysis combines traffic, air quality, weather, district, public transport, emergency event, city event, and power grid data.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ash20240279/Traffic-Environmental-Analytics/blob/main/Smart-City-Analytics.ipynb)
+
 ## Objectives
 
 The project focuses on questions such as:
